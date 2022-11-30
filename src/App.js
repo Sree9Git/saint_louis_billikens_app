@@ -22,4 +22,5 @@ function App() {
 			  );
 }
 
+console.log('Node Server Started... ');
 export default App;
